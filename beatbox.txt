@@ -1,0 +1,14 @@
+battleclip_daq.wav
+callout_adiao.wav
+callout_azeem.wav
+callout_luckeymonkey.wav
+callout_mcld.wav
+callout_mouss.wav
+callout_Pneumatic.wav
+callout_Turn-Table.wav
+putfile_bui.wav
+putfile_dbztenkaichi.wav
+putfile_pepouni.wav
+putfile_vonny.wav
+putfile_william.wav
+snare_hex.wav

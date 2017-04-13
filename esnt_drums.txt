@@ -1,0 +1,12 @@
+040_phrase_disco_complex_medium_sticks.wav
+047_phrase_rock_complex_fast_rods.wav
+053_phrase_afro_complex_fast_mallets.wav
+062_phrase_salsa_simple_fast_sticks.wav
+068_phrase_shuffle-blues_simple_fast_brushes.wav
+082_phrase_reggae_complex_medium_sticks.wav
+088_phrase_waltz_complex_medium_brushes.wav
+096_solo_latin_hands.wav
+098_solo_afro_mallets.wav
+100_solo_rock_sticks.wav
+101_solo_jazz-rock_rods.wav
+102_solo_salsa_sticks.wav
